@@ -8,3 +8,10 @@ body {
         background-color: #e07a5f;
     }
 }
+
+@media (min-width: 999px) {
+
+    body {
+        background-color: #3d405b;
+    }
+}
