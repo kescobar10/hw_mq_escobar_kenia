@@ -9,10 +9,10 @@ body {
     }
 }
 
-@media (min-width: 999px) {
+@media (max-width: 550px) {
 
     body {
-        background-color: #3d405b;
+        background-color: #b1ede8;
     }
 }
 
