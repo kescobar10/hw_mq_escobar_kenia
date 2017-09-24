@@ -16,9 +16,9 @@ body {
     }
 }
 
-@media (min-width: 1280px) {
+@media (max-width: 400px) {
 
     body {
-        background-color: #81b29a;
+        background-color: #6d435a;
     }
 }
